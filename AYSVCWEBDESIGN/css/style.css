@@ -1,0 +1,63 @@
+.text-style {
+    color: blueviolet;
+    text-align: center;
+    background-color: yellow;
+    font-family: cursive;
+    font-size: 25px;
+    border: 69px solid green;
+}
+
+.other-style {
+    font-size: 69px;
+    background-color: darkmagenta;
+    color: firebrick;
+    text-align: right;
+}
+.monky{
+    color: rosybrown;
+    font-family: fantasy;
+}
+
+.list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+.list-item {
+  display: inline-block;
+  padding: 14px 16px;
+}
+
+.list-text {
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+
+.paragraph-text{
+            font-size: 200px;
+            text-align: center;
+        }
+h2{
+    color:aqua;
+    width: 50%;
+    text-align: center;
+    border: 20px solid aqua;
+    padding: 70px;
+    margin: 30 px;
+}
+.float{
+    float: left;
+}
+
+nav{
+    position:fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
